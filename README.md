@@ -1,6 +1,16 @@
 # shop_app
 
-A new Flutter project.
+A Flutter application built using a fake REST API to demonstrate CRUD operations and state management with Provider.
+
+<p align="center">
+  <img src="screenshots/add_product.jpeg" width="240"/>
+  <img src="screenshots/get_all_product.jpeg" width="240"/>
+  <img src="screenshots/login_screen.jpeg" width="240"/>
+  <img src="screenshots/product_detail_screen.jpeg" width="240"/>
+  <img src="screenshots/profile_screen.jpeg" width="240"/>
+  <img src="screenshots/splash_screen.jpeg" width="240"/>
+  <img src="screenshots/update_product_screen.jpeg" width="240"/>
+</p>
 
 ## Getting Started
 
